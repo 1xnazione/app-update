@@ -1,1 +1,1 @@
-{"latest_version": "141"}
+{"latest_version": "142"}
